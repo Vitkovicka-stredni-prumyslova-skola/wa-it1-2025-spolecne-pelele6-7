@@ -1,0 +1,19 @@
+h1{
+
+    color: rgb(247, 0, 255) !important;
+}
+
+a:link{
+
+}
+a:active{
+
+}
+a:hover{
+    background-color: cadetblue;
+
+}
+a:visited{
+    color:black
+
+}
